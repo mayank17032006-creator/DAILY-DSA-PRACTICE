@@ -42,4 +42,5 @@ A collection of my daily Data Structures and Algorithms (DSA) practice solutions
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
