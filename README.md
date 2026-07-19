@@ -8,11 +8,13 @@ A collection of my daily Data Structures and Algorithms (DSA) practice solutions
 | ------- |
 | [0001-two-sum](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0012-integer-to-roman) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0012-integer-to-roman) |
 ## Sliding Window
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of my daily Data Structures and Algorithms (DSA) practice solutions
 | ------- |
 | [0007-reverse-integer](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0012-integer-to-roman) |
 ## Greedy
 |  |
 | ------- |
