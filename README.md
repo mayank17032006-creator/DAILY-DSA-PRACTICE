@@ -38,4 +38,8 @@ A collection of my daily Data Structures and Algorithms (DSA) practice solutions
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0005-longest-palindromic-substring) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
