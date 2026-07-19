@@ -20,4 +20,13 @@ A collection of my daily Data Structures and Algorithms (DSA) practice solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0004-median-of-two-sorted-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
