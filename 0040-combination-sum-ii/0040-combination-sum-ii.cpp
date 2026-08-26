@@ -3,7 +3,7 @@ class Solution {
         void solve(int index,int remaining,vector<int>&candidates,vector<int>&current,vector<vector<int>>&answer){
             if(remaining==0){
                 answer.push_back(current);
-                return;
+       
             }
            for(int i=index;i<candidates.size();i++){
             if(i>index && candidates[i]==candidates[i-1]){
