@@ -64,6 +64,7 @@ A collection of my daily Data Structures and Algorithms (DSA) practice solutions
 | [0009-palindrome-number](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0029-divide-two-integers) |
 ## Greedy
 |  |
 | ------- |
@@ -92,4 +93,8 @@ A collection of my daily Data Structures and Algorithms (DSA) practice solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0020-valid-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
