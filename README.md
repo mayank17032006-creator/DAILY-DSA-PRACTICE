@@ -37,10 +37,12 @@ A collection of my daily Data Structures and Algorithms (DSA) practice solutions
 | [0018-4sum](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0040-combination-sum-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
