@@ -40,6 +40,7 @@ A collection of my daily Data Structures and Algorithms (DSA) practice solutions
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0704-binary-search](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of my daily Data Structures and Algorithms (DSA) practice solutions
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0704-binary-search](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
