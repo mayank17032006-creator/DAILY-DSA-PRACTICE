@@ -11,6 +11,7 @@ A collection of my daily Data Structures and Algorithms (DSA) practice solutions
 | [0012-integer-to-roman](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0268-missing-number](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of my daily Data Structures and Algorithms (DSA) practice solutions
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -49,6 +51,7 @@ A collection of my daily Data Structures and Algorithms (DSA) practice solutions
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
@@ -75,6 +78,7 @@ A collection of my daily Data Structures and Algorithms (DSA) practice solutions
 | [0013-roman-to-integer](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0268-missing-number) |
 ## Greedy
 |  |
 | ------- |
@@ -89,6 +93,7 @@ A collection of my daily Data Structures and Algorithms (DSA) practice solutions
 | [0015-3sum](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0018-4sum) |
+| [0268-missing-number](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0268-missing-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -107,6 +112,7 @@ A collection of my daily Data Structures and Algorithms (DSA) practice solutions
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0029-divide-two-integers) |
+| [0268-missing-number](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0268-missing-number) |
 ## Newton's Method
 |  |
 | ------- |
