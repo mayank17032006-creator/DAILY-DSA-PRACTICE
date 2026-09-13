@@ -44,6 +44,7 @@ A collection of my daily Data Structures and Algorithms (DSA) practice solutions
 | [0162-find-peak-element](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of my daily Data Structures and Algorithms (DSA) practice solutions
 | [0162-find-peak-element](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -119,4 +121,8 @@ A collection of my daily Data Structures and Algorithms (DSA) practice solutions
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0069-sqrtx) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
