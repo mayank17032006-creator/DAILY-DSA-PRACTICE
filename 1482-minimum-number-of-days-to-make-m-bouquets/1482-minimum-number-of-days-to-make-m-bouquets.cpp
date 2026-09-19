@@ -28,17 +28,15 @@ public:
         while(low<=high){
             int mid = low+(high-low)/2;
             long long bundle = makebouquet(bloomDay,mid,k);
-            if(bundle == m){
-                ans = min(ans,mid);
+            if(bundle >= m){
+                ans = mid;
                 high = mid-1;
             }
-            else if(bundle<m){
+            else {
                 low = mid+1;
 
             }
-            else {
-                high = mid-1;
-            }
+          
 
         }
         return ans;
