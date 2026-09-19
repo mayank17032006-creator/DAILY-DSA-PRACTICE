@@ -24,13 +24,13 @@ public:
         int low = *min_element(bloomDay.begin(),bloomDay.end());
         int high = *max_element(bloomDay.begin(),bloomDay.end());
         
-        int ans = high;
-        while(low<=high){
+       
+        while(low<high){
             int mid = low+(high-low)/2;
             long long bundle = makebouquet(bloomDay,mid,k);
             if(bundle >= m){
-                ans = mid;
-                high = mid-1;
+              
+                high = mid;
             }
             else {
                 low = mid+1;
@@ -39,7 +39,7 @@ public:
           
 
         }
-        return ans;
+        return low;
 
     }
 };
