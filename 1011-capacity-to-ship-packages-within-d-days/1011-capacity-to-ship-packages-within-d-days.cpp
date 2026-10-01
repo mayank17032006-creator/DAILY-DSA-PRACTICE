@@ -18,20 +18,20 @@ public:
         
         int low  = *max_element(weights.begin(),weights.end());
         int high = accumulate(weights.begin(),weights.end(),0);
-      //  int ans  = INT_MAX;
-        while(low<high){
+        int ans  = INT_MAX;
+        while(low<=high){
             int mid = low+(high-low)/2;
             int group = NumberOfDays(weights,mid);
             if(group <= days){
-        //        ans = min(ans,mid);
-                high = mid;
+              ans = min(ans,mid);
+                high = mid-1;
             }
             else {
                 low = mid+1;
             }
            
         }
-        return low;
+        return ans;
         
     }
 };
