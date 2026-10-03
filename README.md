@@ -22,6 +22,7 @@ A collection of my daily Data Structures and Algorithms (DSA) practice solutions
 | [0014-longest-common-prefix](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0022-generate-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of my daily Data Structures and Algorithms (DSA) practice solutions
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0022-generate-parentheses) |
 ## Math
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of my daily Data Structures and Algorithms (DSA) practice solutions
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0040-combination-sum-ii) |
 ## Stack
@@ -122,6 +125,7 @@ A collection of my daily Data Structures and Algorithms (DSA) practice solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0022-generate-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
