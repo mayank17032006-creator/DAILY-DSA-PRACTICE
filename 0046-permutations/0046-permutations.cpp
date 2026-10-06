@@ -2,7 +2,7 @@ class Solution {
 
 public:
     void permutation(vector<int>&nums,vector<vector<int>>&answer,int begin){
-        if(begin>=nums.size()){
+        if(begin==nums.size()){
             answer.push_back(nums);
             return;
         }
