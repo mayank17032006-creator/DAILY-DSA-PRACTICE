@@ -40,6 +40,7 @@ A collection of my daily Data Structures and Algorithms (DSA) practice solutions
 | [0039-combination-sum](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0047-permutations-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -110,6 +111,7 @@ A collection of my daily Data Structures and Algorithms (DSA) practice solutions
 | [0015-3sum](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0047-permutations-ii) |
 | [0268-missing-number](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0268-missing-number) |
 ## Backtracking
 |  |
@@ -119,6 +121,7 @@ A collection of my daily Data Structures and Algorithms (DSA) practice solutions
 | [0039-combination-sum](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0047-permutations-ii) |
 ## Stack
 |  |
 | ------- |
