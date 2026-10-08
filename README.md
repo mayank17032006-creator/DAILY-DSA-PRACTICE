@@ -122,6 +122,7 @@ A collection of my daily Data Structures and Algorithms (DSA) practice solutions
 | [0040-combination-sum-ii](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0047-permutations-ii) |
+| [0077-combinations](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0077-combinations) |
 ## Stack
 |  |
 | ------- |
