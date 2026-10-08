@@ -8,7 +8,8 @@ public:
             return;
         }
         int i;
-        for (i = begin; i <= n; i++) {
+        int need = k - temp.size();
+        for (i = begin; i <= n-need+1; i++) {
             temp.push_back(i);
             combination(answer, temp, i + 1, n, k);
             temp.pop_back();
