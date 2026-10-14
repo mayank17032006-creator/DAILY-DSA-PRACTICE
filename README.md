@@ -98,10 +98,12 @@ A collection of my daily Data Structures and Algorithms (DSA) practice solutions
 | [0029-divide-two-integers](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0268-missing-number) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0011-container-with-most-water) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Trie
 |  |
 | ------- |
