@@ -10,15 +10,15 @@ public:
         int r = sum%9;
       string answer ;
      
-        if(q){
+        
         answer.append(q,'9');
-        }
+        num-=q;
+        
         if(r){
             answer.push_back(r+'0');
+            --num;
         }
-        while(answer.size()<num){
-            answer.push_back('0');
-        }
+       answer.append(num,'0');
 
         
         return answer;
