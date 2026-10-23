@@ -46,6 +46,7 @@ A collection of my daily Data Structures and Algorithms (DSA) practice solutions
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0119-pascals-triangle-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0162-find-peak-element) |
@@ -94,6 +95,7 @@ A collection of my daily Data Structures and Algorithms (DSA) practice solutions
 | [0005-longest-palindromic-substring](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0119-pascals-triangle-ii) |
 ## Math
 |  |
 | ------- |
