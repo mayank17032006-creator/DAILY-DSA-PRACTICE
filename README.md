@@ -47,6 +47,7 @@ A collection of my daily Data Structures and Algorithms (DSA) practice solutions
 | [0088-merge-sorted-array](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0119-pascals-triangle-ii) |
+| [0136-single-number](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0162-find-peak-element) |
@@ -153,6 +154,7 @@ A collection of my daily Data Structures and Algorithms (DSA) practice solutions
 | ------- |
 | [0029-divide-two-integers](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0268-missing-number) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Newton's Method
