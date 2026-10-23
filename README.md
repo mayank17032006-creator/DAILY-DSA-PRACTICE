@@ -12,6 +12,7 @@ A collection of my daily Data Structures and Algorithms (DSA) practice solutions
 | [0013-roman-to-integer](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0268-missing-number) |
 ## String
 |  |
@@ -53,6 +54,7 @@ A collection of my daily Data Structures and Algorithms (DSA) practice solutions
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -131,6 +133,7 @@ A collection of my daily Data Structures and Algorithms (DSA) practice solutions
 | [0047-permutations-ii](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0268-missing-number) |
 ## Backtracking
 |  |
