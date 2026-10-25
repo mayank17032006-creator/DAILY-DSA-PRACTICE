@@ -57,6 +57,7 @@ A collection of my daily Data Structures and Algorithms (DSA) practice solutions
 | [0217-contains-duplicate](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0875-koko-eating-bananas) |
@@ -96,6 +97,7 @@ A collection of my daily Data Structures and Algorithms (DSA) practice solutions
 | [0016-3sum-closest](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/mayank17032006-creator/DAILY-DSA-PRACTICE/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
