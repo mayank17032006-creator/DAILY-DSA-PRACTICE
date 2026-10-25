@@ -6,9 +6,8 @@ public:
         int j;
         
         for(j = 1;j<=nums.size();j++){
-            if(j == nums.size() || nums[j] != nums[j-1] + 1){
-               
-          
+            if(j == nums.size() || nums[j-1] != nums[j] -1 ){
+           
                 if(nums[i] == nums[j-1]){
                     answer.push_back(to_string(nums[j-1]));
                 }
